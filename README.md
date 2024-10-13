@@ -1,4 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--
 **MujtabaFR/MujtabaFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
